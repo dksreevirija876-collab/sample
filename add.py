@@ -1,3 +1,7 @@
 aminoacids = ("proline","lysine","valine")
 codon = ("p","l","v")
 print(aminoacids+codon)
+
+a = ('proline')
+b = ('glycine')
+print(a+b)
