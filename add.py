@@ -5,3 +5,7 @@ print(aminoacids+codon)
 a = ('proline')
 b = ('glycine')
 print(a+b)
+
+a = ('tyrosine')
+b = ('tryptophan')
+print(a,b)
